@@ -37,6 +37,3 @@ public class FirstBadVersion {
         return true;
     }
 }
-
-    }
-}
